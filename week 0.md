@@ -7,6 +7,11 @@ Special thanks to Andrew and his wonderful 'Guru' Team!
 
 ### Installed AWS CLI
 
-Managed to installed AWS CLI without facing any issue
+Managed to installed AWS CLI in my Windows 10 
+ 
+![Proof of AWS CLI insallation](journal/asset/Installed_AWS_CLI.PNG)
 
-![Proof of Working AWS CLI] (
+CLI version info 
+
+![Proof of AWS CLI insallation](journal/asset/Installed_AWS_CLI_version.PNG)
+ 
